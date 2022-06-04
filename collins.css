@@ -1,0 +1,56 @@
+.heading{
+color:gold;
+text-align: center;
+font-size: 100px;
+font-style:italic;
+}
+#p-1{
+ height: 350px; width: 300px;
+ border-radius: 50%;
+
+}
+.h-2{
+    color:lime;
+    text: align 20px;;
+    font-size: 28px; font-style: italic;
+}
+#h1{
+    border: 12px dashed blueviolet;
+   color:black;
+   background-color:lime;
+   margin: 50px;
+   padding:20px; 
+}
+#b-1{
+    border: 12px dashed blueviolet;
+    color:lime;
+    background-color:darkblue;
+    margin: 50px;
+   padding:15px;  
+}
+#c-1{
+    border: 12px dashed white;
+   color:yellow;
+   background-color:deeppink;;
+   margin: 50px;
+   padding:15px;  
+}
+#d-1{
+    border: 12px dashed blue;
+   color:blue;
+   background-color:gold;
+   margin: 50px;
+   padding:15px;  
+}
+#f-1{
+    border: 12px dashed gold;
+   color:gold;
+   background-color:red;
+   margin: 50px;
+   padding:15px;  
+}
+button{
+    color:white;
+    background-color:blue;
+    font-size:12px;
+}
